@@ -1473,7 +1473,6 @@ img {
   display: inline-block;
   font-weight: 400;
   font-style: normal;
-  speak: none;
   text-transform: none;
 }
 
@@ -3745,7 +3744,6 @@ textarea.form-input {
   letter-spacing: 0.1em;
   font-size: 14px;
   font-weight: 700;
-  vertical-align: middle;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -3910,7 +3908,6 @@ textarea.form-input {
 
 .snackbars-right {
   display: inline-block;
-  float: right;
   text-transform: uppercase;
 }
 
@@ -4478,10 +4475,6 @@ html.boxed body {
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-  .blog-layout__aside {
-    -moz-column-gap: 30px;
-    -webkit-column-gap: 30px;
-  }
   .blog-layout__aside-item {
     display: inline-block;
     width: 100%;
@@ -8621,7 +8614,6 @@ html.rd-navbar-fixed-linked .page {
   position: relative;
   -ms-touch-action: pan-Y;
   touch-action: manipulation;
-  -moz-backface-visibility: hidden;
   /* fix firefox animation glitch */
 }
 
@@ -8796,7 +8788,6 @@ html.rd-navbar-fixed-linked .page {
   height: 10px;
   background: transparent;
   display: block;
-  -webkit-backface-visibility: visible;
   transition: opacity 200ms ease;
   border-radius: 5px;
   border: 1px solid #888888;

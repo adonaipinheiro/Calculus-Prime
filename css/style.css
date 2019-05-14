@@ -597,7 +597,7 @@ a[href*="mailto"] {
 .box-counter {
   position: relative;
   text-align: center;
-  color: #2c343b;
+  color: #404044;
 }
 
 .box-counter-title {
@@ -5375,7 +5375,7 @@ html [class*="section-"].section-bottom-0 {
 * Dark Backgrounds
 */
 .bg-gray-700 {
-  background-color: #2c343b;
+  background-color: #404044;
 }
 
 .bg-gray-700:not([style*="background-"])
@@ -6980,7 +6980,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-navbar-panel {
   color: #9b9b9b;
-  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.068);
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
   background: #404044;
 }
 

@@ -8,6 +8,6 @@ Site institucional sobre a empresa "Conexão Consultoria e Gestão"
 
 - [x] Criar página 404
 - [x] Criar página Home
-- [ ] Criar página Sobre nós
+- [ ] Criar página Quem somos
 - [ ] Criar página Serviços
 - [ ] Criar página Contatos
